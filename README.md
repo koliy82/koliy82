@@ -1,10 +1,8 @@
 Hi 👋  
 =======================
 <div>
-  <a href="https://github.com/koliy82">
+  <a style="text-decoration: none" href="https://github.com/koliy82">
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/koliy82">
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=DevOps,MPTsync&hide=python,jupyter%20notebook,pascal"/>
   </a>
 </div>
