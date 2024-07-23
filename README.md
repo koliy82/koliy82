@@ -2,17 +2,17 @@
 =======================
 <b>My GitHub Stats</b>
 <div>
-  <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
+  <img height="180em" width="60%" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
 </div>
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
   <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
     
-    <div width="45%">
+    <div width="45%" align="right">
         <b>Skills</b>
-        <p align="right">
+        <p>
             <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
                     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
                     width="36" height="36" alt="Kotlin" /></a><a href="https://go.dev/doc/" target="_blank"
@@ -42,7 +42,7 @@
         </p>
 
         <b>Socials</b>
-        <p align="right">
+        <p>
             <a href="https://discord.com/users/koliy82" target="_blank" rel="noreferrer">
                 <picture>
                     <source media="(prefers-color-scheme: dark)"
@@ -67,4 +67,3 @@
     </div>
 
 </div>
-
