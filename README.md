@@ -2,8 +2,11 @@
 =======================
 <b>My GitHub Stats</b>
 <div>
-  <img height="180em" width="60%" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
+    <pre>
+        <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+        <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
+    </pre>
 </div>
 
 <b>Top Repositories</b>
