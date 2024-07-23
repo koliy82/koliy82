@@ -6,9 +6,10 @@
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
 </div>
 
-<b>Top Repositories</b>
+
 <div width="45%" align="left">
-  <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+    <b>Top Repositories</b>
+    <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <div width="45%" align="right">
@@ -42,7 +43,7 @@
                 width="36" height="36" alt="Docker" /></a>
     </p>
 
-    <b>Socials</b>
+    <b>Skills</b>
     <p>
         <a href="https://discord.com/users/koliy82" target="_blank" rel="noreferrer">
             <picture>
