@@ -8,10 +8,10 @@ Hi 👋 Welcome to my profile.
 
 ### Top Repositories & Skills
 <div>
-    <div align="left" width="45%">
-        <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="100%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+    <div align="left">
+        <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
     </div>
-    <div align="right" width="45%">
+    <div align="right">
         <p>
             <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
                     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
