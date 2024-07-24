@@ -1,5 +1,5 @@
-Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4334874e.gif) Welcome to my profile.
-=======================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my profile.
+=============================================================================================================================
 <b>My GitHub Stats</b>
 <div>
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
