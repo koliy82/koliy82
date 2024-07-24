@@ -6,14 +6,13 @@
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
 </div>
 
-
 <div width="45%" align="left">
     <b>Top Repositories</b> <br>
     <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <div width="45%" align="right">
-    <b>Skills</b>
+    <b>Skills</b> <br>
     <p>
         <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
@@ -43,27 +42,4 @@
                 width="36" height="36" alt="Docker" /></a>
     </p>
 
-    <!-- <b>Socials</b>
-    <p>
-        <a href="https://discord.com/users/koliy82" target="_blank" rel="noreferrer">
-            <picture>
-                <source media="(prefers-color-scheme: dark)"
-                    srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-                <source media="(prefers-color-scheme: light)"
-                    srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-                    width="32" height="32" />
-            </picture>
-        </a>
-        <a href="https://www.github.com/koliy82" target="_blank" rel="noreferrer">
-            <picture>
-                <source media="(prefers-color-scheme: dark)"
-                    srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                <source media="(prefers-color-scheme: light)"
-                    srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-                    width="32" height="32" />
-            </picture>
-        </a>
-    </p> -->
 </div>
