@@ -11,6 +11,14 @@
     <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
+<table width="100%">
+    <tr>
+    <td width="33.3%">test1</td>
+    <td width="33.3%">test2</td>
+    <td width="33.3%">test3</td>
+    </tr>
+  </table>
+
 <div align="right">
     <b>Skills</b> <br>
     <p>
