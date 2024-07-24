@@ -9,10 +9,10 @@ Hi. [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Top Repositories & Skills
 <table width="100%">
     <tr>
-        <td width="80%">
+        <td width="60%">
             <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="100%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
         </td>
-        <td width="20%">
+        <td width="40%">
             <p>
                 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
                         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
