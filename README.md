@@ -6,18 +6,52 @@
     <img height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
 </div>
 
+
+
+<table width="100%">
+    <tr>
+        <td width="50%">
+            <b>Top Repositories</b>
+            <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+        </td>
+        <td width="50%">
+            <b>Skills</b> <br>
+            <p>
+                <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg"
+                        width="48" height="48" alt="Kotlin" /></a><a href="https://go.dev/doc/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
+                        width="48" height="48" alt="Go" /></a><a href="https://www.rust-lang.org/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg"
+                        width="48" height="48" alt="Rust" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+                        width="48" height="48" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+                        width="48" height="48" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+                        width="48" height="48" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+                        width="48" height="48" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+                        width="48" height="48" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank"
+                    rel="noreferrer"><img
+                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+                        width="48" height="48" alt="Docker" /></a>
+            </p>
+        </td>
+    </tr>
+  </table>
+
 <div align="left">
     <b>Top Repositories</b> <br>
     <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="45%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
-
-<table width="100%">
-    <tr>
-    <td width="33.3%">test1</td>
-    <td width="33.3%">test2</td>
-    <td width="33.3%">test3</td>
-    </tr>
-  </table>
 
 <div align="right">
     <b>Skills</b> <br>
