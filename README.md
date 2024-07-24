@@ -24,9 +24,7 @@ Hi. [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust.svg"
                         width="48" height="48" alt="Rust" /></a>
 
-                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img
-                        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-                        width="48" height="48" alt="PostgreSQL" /></a>
+
                 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
                         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
                         width="48" height="48" alt="MongoDB" /></a>
