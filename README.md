@@ -3,7 +3,7 @@ Hi 👋 Welcome to my profile.
 <b>My GitHub Stats</b>
 <div>
     <img width="50%" height="180em"  src="https://github-readme-stats-silk-delta-92.vercel.app/api?username=koliy82&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img width="40%" height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats&hide=jupyter%20notebook,pascal,CMake"/>
+    <img width="40%" height="180em" src="https://github-readme-stats-silk-delta-92.vercel.app/api/top-langs/?username=koliy82&layout=compact&count_private=true&theme=radical&exclude_repo=github-readme-stats,koiy82&hide=jupyter%20notebook,pascal,CMake"/>
 </div>
 
 ### Top Repositories & Skills
