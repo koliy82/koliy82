@@ -9,7 +9,7 @@ Hi 👋 Welcome to my profile.
 ### Top Repositories & Skills
 <div>
     <div align="left">
-        <a href="https://github.com/koliy82/go_tg_bot" align="left"><img align="left" width="60%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=go_tg_bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+        <a href="https://github.com/koliy82/famoria" align="left"><img align="left" width="60%" src="https://github-readme-stats-silk-delta-92.vercel.app/api/pin/?username=koliy82&repo=famoria&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
     </div>
     <div>
         <p width="55%" align="left">
